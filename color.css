@@ -1,7 +1,10 @@
+* {
+	font-family: 'Libre Baskerville', serif;
+}
+
 body {
 	background-color: white;
 	margin: 0;
-	font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
