@@ -37,6 +37,7 @@ button:hover {
 	color: lightgray;
 	background-color: #222222;
 	border: none;
+	cursor: pointer;
 }
 
 .square {
@@ -75,5 +76,5 @@ button:hover {
 }
 
 #colorDisplay {
-	font-size: 170%;
+	font-size: 150%;
 }
