@@ -7,4 +7,4 @@ RGB color game with two levels of difficulty.
 Vanilla JS\
 CSS anination
 
-![rgbcolorgames](https://github.com/BibianaBalBar/RGB-color-game/blob/master/img/colorGame.gif)
+![rgbcolorgames](https://github.com/BibianaBalBar/RGB-color-game/blob/master/img/colorGame1.gif)
